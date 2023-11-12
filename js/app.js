@@ -6,19 +6,19 @@ const signinBtnEl =document.querySelector('.signinBtn')
 const products = [
     {
         id:0,
-        img:'./assets/wolfhood.jpg',
+        img:'assets/wolfhood.jpg',
         name:'Wolf Hood',
         price:2000
     },
     {
         id:1,
-        img:'./assets/k2-jacket.jpg',
+        img:'assets/k2-jacket.jpg',
         name:'k2 Jacket',
         price:5000
     },
     {
         id:2,
-        img:'./assets/college-jacket.jpg',
+        img:'assets/college-jacket.jpg',
         name:'College Jacket',
         price:3000
     },
