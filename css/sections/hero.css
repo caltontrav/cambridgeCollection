@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat&family=Poiret+One&family=Roboto&family=Urbanist:wght@300&display=swap');
 .hero{
     height: 80vh;
-    background-image: url("./assets/hero.jpg");
+    background-image: url("assets/hero.jpg");
     width: 100%;
     margin-top: 110px;
     background-attachment: fixed;
