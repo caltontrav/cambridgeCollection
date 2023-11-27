@@ -6,55 +6,55 @@ const signinBtnEl =document.querySelector('.signinBtn')
 const products = [
     {
         id:0,
-        img:'/assets/wolfhood.jpg',
+        img:'assets/wolfhood.jpg',
         name:'Wolf Hood',
         price:2000
     },
     {
         id:1,
-        img:'/assets/k2-jacket.jpg',
+        img:'assets/k2-jacket.jpg',
         name:'k2 Jacket',
         price:5000
     },
     {
         id:2,
-        img:'/assets/college-jacket.jpg',
+        img:'assets/college-jacket.jpg',
         name:'College Jacket',
         price:3000
     },
     {
         id:3,
-        img:'/assets/black-trench-coat.jpeg',
+        img:'assets/black-trench-coat.jpeg',
         name:'Black Trench Coat',
         price:2000
     },
     {
         id:4,
-        img:'/assets/grey-trench-coat.jpeg',
+        img:'assets/grey-trench-coat.jpeg',
         name:'Grey Trench Coat',
         price:2000
     },
     {
         id:5,
-        img:'/assets/green-denim-Jacket.jpg',
+        img:'assets/green-denim-Jacket.jpg',
         name:'Green Denim Jacket',
         price:1500
     },
     {
         id:6,
-        img:'/assets/Leather-Jacket.jpg',
+        img:'assets/Leather-Jacket.jpg',
         name:'Leather Jacket',
         price:3500
     },
     {
         id:7,
-        img:'/assets/puff-jacket.jpeg',
+        img:'assets/puff-jacket.jpeg',
         name:'Puff Jacket',
         price:4000
     },
     {
         id:8,
-        img:'/assets/sweater.jpg',
+        img:'assets/sweater.jpg',
         name:'Sweater',
         price:1200
     }
